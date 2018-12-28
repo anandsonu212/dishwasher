@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/QuizUp Assets/Resources/scenes/start.unity
+  isLoaded: 1
+  isActive: 1
