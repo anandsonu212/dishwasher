@@ -259,7 +259,7 @@ public class DishwasherMCQGameManager : MonoBehaviour
         yield return new WaitForSeconds(timebetweenquestions);
         if (unansweredQuestions.Count == 0)
         {
-            SceneManager.LoadScene("CookingTimerScene");
+            SceneManager.LoadScene("LaundryScene");
         }
         else
         {

@@ -118,7 +118,7 @@ public class MCQGameManager : MonoBehaviour
             Debug.Log("Unanwered count" + totalquestionstoask);
 
            
-                SceneManager.LoadScene("Dishwashing");
+                SceneManager.LoadScene("cookingTask");
             //stopgame();
 
         }
@@ -289,7 +289,7 @@ public class MCQGameManager : MonoBehaviour
         if (unansweredQuestions.Count == 0)
         {
 
-            SceneManager.LoadScene("Dishwashing");
+            SceneManager.LoadScene("cookingTask");
         }
         else
         {

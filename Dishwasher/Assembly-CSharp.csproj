@@ -10,7 +10,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace>
     </RootNamespace>
-    <ProjectGuid>{B2B58FB2-4462-6B0C-A872-40DD957E5FE0}</ProjectGuid>
+    <ProjectGuid>{47E3BA48-129D-DC59-DDA8-8377D9B8AD36}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -65,6 +65,9 @@
     <Compile Include="Assets\QuizUp Assets\Resources\scripts\categoriesscenechanger.cs" />
     <Compile Include="Assets\QuizUp Assets\Resources\scripts\challengemanager.cs" />
     <Compile Include="Assets\QuizUp Assets\Resources\scripts\challengescene.cs" />
+    <Compile Include="Assets\QuizUp Assets\Resources\scripts\cleaning\CleaningGameManager.cs" />
+    <Compile Include="Assets\QuizUp Assets\Resources\scripts\cooking\CookinGameManager.cs" />
+    <Compile Include="Assets\QuizUp Assets\Resources\scripts\dishwasher\DishwasherGameManager.cs" />
     <Compile Include="Assets\QuizUp Assets\Resources\scripts\DishwasherMCQGameManager.cs" />
     <Compile Include="Assets\QuizUp Assets\Resources\scripts\exitgame.cs" />
     <Compile Include="Assets\QuizUp Assets\Resources\scripts\facebookshare.cs" />
@@ -86,6 +89,8 @@
     <Compile Include="Assets\QuizUp Assets\Resources\scripts\MCQGameManagerNonTimer.cs" />
     <Compile Include="Assets\QuizUp Assets\Resources\scripts\mcqquestion.cs" />
     <Compile Include="Assets\QuizUp Assets\Resources\scripts\playername.cs" />
+    <Compile Include="Assets\QuizUp Assets\Resources\scripts\PreviewScenemanager.cs" />
+    <Compile Include="Assets\QuizUp Assets\Resources\scripts\PreviewTaskManager.cs" />
     <Compile Include="Assets\QuizUp Assets\Resources\scripts\quizstarttimer.cs" />
     <Compile Include="Assets\QuizUp Assets\Resources\scripts\randomquiz.cs" />
     <Compile Include="Assets\QuizUp Assets\Resources\scripts\randomquizmanager.cs" />
@@ -93,6 +98,7 @@
     <Compile Include="Assets\QuizUp Assets\Resources\scripts\rateusbutton.cs" />
     <Compile Include="Assets\QuizUp Assets\Resources\scripts\resetgame.cs" />
     <Compile Include="Assets\QuizUp Assets\Resources\scripts\scenechanger.cs" />
+    <Compile Include="Assets\QuizUp Assets\Resources\scripts\shopping\ShoppingGameManager.cs" />
     <Compile Include="Assets\QuizUp Assets\Resources\scripts\splashscreen.cs" />
     <Compile Include="Assets\QuizUp Assets\Resources\scripts\startscenemanager.cs" />
     <Compile Include="Assets\QuizUp Assets\Resources\scripts\tfGameManager.cs" />
@@ -102,16 +108,16 @@
     <Compile Include="Assets\sonumnager.cs" />
     <None Include="Assets\Textures and Sprites\SF UI\Background\LICENSE.txt" />
     <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>D:/SONU-ANAND/tempp/New Unity Project/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>D:/SONU-ANAND/amarchandane/dishwasher/Dishwasher/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>D:/SONU-ANAND/tempp/New Unity Project/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>D:/SONU-ANAND/amarchandane/dishwasher/Dishwasher/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>D:/SONU-ANAND/tempp/New Unity Project/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>D:/SONU-ANAND/amarchandane/dishwasher/Dishwasher/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>D:/SONU-ANAND/tempp/New Unity Project/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>D:/SONU-ANAND/amarchandane/dishwasher/Dishwasher/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -294,7 +300,7 @@
       <HintPath>C:/Program Files/Unity/Editor/Data/Managed/Unity.Locator.dll</HintPath>
     </Reference>
     <Reference Include="Facebook.Unity.Settings">
-      <HintPath>D:/SONU-ANAND/tempp/New Unity Project/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
+      <HintPath>D:/SONU-ANAND/amarchandane/dishwasher/Dishwasher/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
       <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
