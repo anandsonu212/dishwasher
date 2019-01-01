@@ -28,7 +28,6 @@ public class randomquizmanager : MonoBehaviour {
 
 		if (unansweredQuestions == null || unansweredQuestions.Count == 0) 
 		{
-
 			unansweredQuestions = questions.ToList<randomquiz>();
 		}
 
@@ -71,57 +70,41 @@ public class randomquizmanager : MonoBehaviour {
 		    
 
 		if (currentQuestion.istruefalse) {
-
 			option3btn.SetActive (false);
 			option4btn.SetActive (false);
-			imagedisplay.SetActive (false);
 		}
 		    
 		if (currentQuestion.ismcq) {
 			option3btn.SetActive (true);
 			option4btn.SetActive (true);
-			imagedisplay.SetActive (false);
 		}
 			
-		if (currentQuestion.ispic) {
-
-			imageholder.sprite = currentQuestion.picture;
-			option3btn.SetActive (true);
-			option4btn.SetActive (true);
-		}
-
-
-			imageholder.sprite = currentQuestion.picture;
+        imagedisplay.SetActive(true);
+        imageholder.sprite = currentQuestion.picture;
 
 	}
 
 	public void option1selected(){
 	
-		if (currentQuestion.atrue) 
-		{
-			correctanswers++;
+		if (currentQuestion.atrue) {
+            correctanswers++;
 			answersshow.text = "CORRECT";
-
 		} else {
-
 			wronganswers++;
 			answersshow.text = "FALSE";
 		}
 	
 		sceneanimations.SetTrigger ("showans");
 		StartCoroutine (transitiontonextquestion ());
-	
 	}
 
 	public void option2selected(){
-
-		if (currentQuestion.btrue) 
-		{
+  
+		if (currentQuestion.btrue) {
 			correctanswers++;
 			answersshow.text = "CORRECT";
-
-		} else {
-
+		}
+        else {
 			wronganswers++;
 			answersshow.text = "FALSE";
 		}
@@ -133,13 +116,11 @@ public class randomquizmanager : MonoBehaviour {
 
 	public void option3selected(){
 
-		if (currentQuestion.ctrue) 
-		{
-			correctanswers++;
+		if (currentQuestion.ctrue) {
+	    	correctanswers++;
 			answersshow.text = "CORRECT";
-
-		} else {
-
+        }
+        else {
 			wronganswers++;
 			answersshow.text = "FALSE";
 		}
@@ -150,13 +131,11 @@ public class randomquizmanager : MonoBehaviour {
 
 	public void option4selected(){
 
-		if (currentQuestion.dtrue) 
-		{
-			correctanswers++;
+		if (currentQuestion.dtrue) {
+            correctanswers++;
 			answersshow.text = "CORRECT";
-
-		} else {
-
+        }
+        else {
 			wronganswers++;
 			answersshow.text = "FALSE";
 		}
@@ -174,47 +153,12 @@ public class randomquizmanager : MonoBehaviour {
 
 	}
 
-	public void skip(){
-
-		unansweredQuestions.Remove(currentQuestion);
-		totalquestionstoask = totalquestionstoask - 1;
-		SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
-
-	}
-
-	public void retry(){
-	
-		end = 0;
-		totalquestionstoask = 10; //change this value to initial value
-		correctanswers = 0;
-		wronganswers = 0;
-		unansweredQuestions = null;
-		questions = null;
-
-		SceneManager.LoadScene (SceneManager.GetActiveScene().buildIndex);
-	
-	}
-
-	public void cancelquiz(){
-
-		end = 0;
-		totalquestionstoask = 10; //change this value to initial value
-		correctanswers = 0;
-		wronganswers = 0;
-		unansweredQuestions = null;
-		questions = null;
-
-		SceneManager.LoadScene ("start");
-
-	}
-
 	private void endgame(){
 
 		int newscore = correctanswers;
 		int oldscore = PlayerPrefs.GetInt ("RandomquizHighScore", 0);
 
 		if (newscore > oldscore) {
-			
 			PlayerPrefs.SetInt ("RandomquizHighScore", newscore);
 			PlayerPrefs.Save ();
 		}
@@ -233,6 +177,5 @@ public class randomquizmanager : MonoBehaviour {
 		unansweredQuestions = null;
 		questions = null;
 	}
-
 
 }
