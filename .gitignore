@@ -1,0 +1,710 @@
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Runtime/TMP_SpriteAnimator.cs
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Runtime/TMP_Sprite.cs.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Runtime/TMP_Sprite.cs
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Runtime/TMP_Settings.cs.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Runtime/TMP_Settings.cs
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Runtime/TMP_SelectionCaret.cs.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Runtime/TMP_SelectionCaret.cs
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Runtime/TMP_ScrollbarEventHandler.cs.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Runtime/TMP_ScrollbarEventHandler.cs
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Runtime/TMP_ObjectPool.cs.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Runtime/TMP_ObjectPool.cs
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Runtime/TMP_MeshInfo.cs.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Runtime/TMP_MeshInfo.cs
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Runtime/TMP_MaterialManager.cs.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Runtime/TMP_MaterialManager.cs
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Runtime/TMP_ListPool.cs.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Editor/TMP_StyleSheetEditor.cs.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Editor/TMP_StyleSheetEditor.cs
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Editor/TMP_StyleAssetMenu.cs.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Editor/TMP_StyleAssetMenu.cs
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Editor/TMP_SpriteAssetMenu.cs.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Editor/TMP_SpriteAssetMenu.cs
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Editor/TMP_SpriteAssetImporter.cs.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Editor/TMP_SpriteAssetImporter.cs
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Editor/TMP_SpriteAssetEditor.cs.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Editor/TMP_SpriteAssetEditor.cs
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Editor/TMP_SettingsEditor.cs.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Editor/TMP_SettingsEditor.cs
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Editor/TMP_SDFShaderGUI.cs.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Editor/TMP_SDFShaderGUI.cs
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Editor/TMP_ResourcesLoader.cs.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Editor/TMP_ResourcesLoader.cs
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Editor Resources/Textures/btn_AlignBaseLine.psd
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Editor Resources/Textures/Square Box Area (85 Grey).png.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Editor Resources/Textures/Square Box Area (85 Grey).png
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Editor Resources/Textures/Square Box Area (40 Grey).png.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Editor Resources/Textures/Square Box Area (40 Grey).png
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Editor Resources/Textures/Box Area Medium.png.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Editor Resources/Textures/Box Area Medium.png
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Editor Resources/Textures/Box Area Medium (LEFT).png.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Editor Resources/Textures/Box Area Medium (LEFT).png
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Editor Resources/Textures/Box Area Light.png.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Editor Resources/Textures/Box Area Light.png
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Editor Resources/Textures/Box Area Light (LEFT).png.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Editor Resources/Textures/Box Area Light (LEFT).png
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Editor Resources/Textures/Box Area Dark.png.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Editor Resources/Textures/Box Area Dark.png
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Editor Resources/Textures/Box Area Dark (LEFT).png.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Sources/UI/PackagesLoading.cs.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Sources/UI/PackagesLoading.cs
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Sources/UI/PackageSearchFilterTabs.cs.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Sources/UI/PackageSearchFilterTabs.cs
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Sources/UI/PackageManagerWindow.cs.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Sources/UI/PackageManagerWindow.cs
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Sources/UI/PackageManagerExtensions.cs.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Sources/UI/PackageManagerExtensions.cs
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Sources/UI/PackageList.cs.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Sources/UI/PackageList.cs
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Sources/UI/PackageItem.cs.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Sources/UI/PackageItem.cs
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Sources/UI/PackageGroup.cs.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Sources/UI/PackageGroup.cs
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Sources/UI/PackageDetails.cs.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Sources/UI/PackageDetails.cs
+Dishwasher/Library/PackageCache/com.unity.analytics@2.0.16/package.json
+Dishwasher/Library/PackageCache/com.unity.analytics@2.0.16/UnityEngine.Analytics.dll.meta
+Dishwasher/Library/PackageCache/com.unity.analytics@2.0.16/UnityEngine.Analytics.dll.mdb.meta
+Dishwasher/Library/PackageCache/com.unity.analytics@2.0.16/UnityEngine.Analytics.dll.mdb
+Dishwasher/Library/PackageCache/com.unity.analytics@2.0.16/UnityEngine.Analytics.dll
+Dishwasher/Library/PackageCache/com.unity.analytics@2.0.16/README.md.meta
+Dishwasher/Library/PackageCache/com.unity.analytics@2.0.16/README.md
+Dishwasher/Library/PackageCache/com.unity.analytics@2.0.16/License.md.meta
+Dishwasher/Library/PackageCache/com.unity.analytics@2.0.16/License.md
+Dishwasher/Library/PackageCache/com.unity.analytics@2.0.16/Editor/UnityEditor.Analytics.dll.meta
+Dishwasher/Library/PackageCache/com.unity.analytics@2.0.16/Editor/UnityEditor.Analytics.dll.mdb.meta
+Dishwasher/Library/PackageCache/com.unity.analytics@2.0.16/Editor/UnityEditor.Analytics.dll.mdb
+Dishwasher/Library/PackageCache/com.unity.analytics@2.0.16/Editor/UnityEditor.Analytics.dll
+Dishwasher/Library/PackageCache/com.unity.analytics@2.0.16/Editor/AnalyticsEventTracker icon.png.meta
+Dishwasher/Library/PackageCache/com.unity.analytics@2.0.16/Editor/AnalyticsEventTracker icon.png
+Dishwasher/Library/PackageCache/com.unity.analytics@2.0.16/Editor.meta
+Dishwasher/Library/PackageCache/com.unity.analytics@2.0.16/Documentation~/images/analytics9.png
+Dishwasher/Library/PackageCache/com.unity.analytics@2.0.16/Documentation~/images/analytics8.png
+Dishwasher/Library/PackageCache/com.unity.analytics@2.0.16/Documentation~/images/analytics7.png
+Dishwasher/Library/PackageCache/com.unity.analytics@2.0.16/Documentation~/images/analytics6.png
+Dishwasher/Library/PackageCache/com.unity.analytics@2.0.16/Documentation~/images/analytics5.png
+Dishwasher/Library/PackageCache/com.unity.analytics@2.0.16/Documentation~/images/analytics4.png
+Dishwasher/Library/PackageCache/com.unity.analytics@2.0.16/Documentation~/images/analytics3.png
+Dishwasher/Library/PackageCache/com.unity.analytics@2.0.16/Documentation~/images/analytics2.png
+Dishwasher/Library/PackageCache/com.unity.analytics@2.0.16/Documentation~/images/analytics14.png
+Dishwasher/Library/PackageCache/com.unity.analytics@2.0.16/Documentation~/images/analytics13.png
+Dishwasher/Library/PackageCache/com.unity.analytics@2.0.16/Documentation~/images/analytics12.png
+Dishwasher/Library/PackageCache/com.unity.analytics@2.0.16/Documentation~/images/analytics11.png
+Dishwasher/Library/PackageCache/com.unity.analytics@2.0.16/Documentation~/images/analytics10.png
+Dishwasher/Library/PackageCache/com.unity.analytics@2.0.16/Documentation~/images/analytics1.png
+Dishwasher/Library/PackageCache/com.unity.analytics@2.0.16/Documentation~/images/analytics0.png
+Dishwasher/Library/PackageCache/com.unity.analytics@2.0.16/Documentation~/analytics.md
+Dishwasher/Library/PackageCache/com.unity.analytics@2.0.16/CHANGELOG.md.meta
+Dishwasher/Library/PackageCache/com.unity.analytics@2.0.16/CHANGELOG.md
+Dishwasher/Library/PackageCache/com.unity.ads@2.0.8/package.json.meta
+Dishwasher/Library/PackageCache/com.unity.ads@2.0.8/package.json
+Dishwasher/Library/PackageCache/com.unity.ads@2.0.8/UnityEngine.Advertisements.dll.meta
+Dishwasher/Library/PackageCache/com.unity.ads@2.0.8/UnityEngine.Advertisements.dll.mdb.meta
+Dishwasher/Library/PackageCache/com.unity.ads@2.0.8/UnityEngine.Advertisements.dll.mdb
+Dishwasher/Library/PackageCache/com.unity.ads@2.0.8/UnityEngine.Advertisements.dll
+Dishwasher/Library/PackageCache/com.unity.ads@2.0.8/README.md.meta
+Dishwasher/Library/PackageCache/com.unity.ads@2.0.8/README.md
+Dishwasher/Library/PackageCache/com.unity.ads@2.0.8/License.md.meta
+Dishwasher/Library/PackageCache/com.unity.ads@2.0.8/License.md
+Dishwasher/Library/PackageCache/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll.meta
+Dishwasher/Library/PackageCache/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll.mdb.meta
+Dishwasher/Library/PackageCache/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll.mdb
+Dishwasher/Library/PackageCache/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll
+Dishwasher/Library/PackageCache/com.unity.ads@2.0.8/Editor/Resources/iOS/builds/UnityAds.framework/UnityAds.meta
+Dishwasher/Library/PackageCache/com.unity.ads@2.0.8/Editor/Resources/iOS/builds/UnityAds.framework/UnityAds
+Dishwasher/Library/PackageCache/com.unity.ads@2.0.8/Editor/Resources/iOS/builds/UnityAds.framework/Modules/module.modulemap.meta
+Dishwasher/Library/PackageCache/com.unity.ads@2.0.8/Editor/Resources/iOS/builds/UnityAds.framework/Modules/module.modulemap
+Dishwasher/Library/PackageCache/com.unity.ads@2.0.8/Editor/Resources/iOS/builds/UnityAds.framework/Modules.meta
+Dishwasher/Library/PackageCache/com.unity.ads@2.0.8/Editor/Resources/iOS/builds/UnityAds.framework/Info.plist.meta
+Dishwasher/Library/PackageCache/com.unity.ads@2.0.8/Editor/Resources/iOS/builds/UnityAds.framework/Info.plist
+Dishwasher/Library/PackageCache/com.unity.ads@2.0.8/Editor/Resources/iOS/builds/UnityAds.framework/Headers/UnityAdsUnityDelegate.h.meta
+Dishwasher/Library/PackageCache/com.unity.ads@2.0.8/Editor/Resources/iOS/builds/UnityAds.framework/Headers/UnityAdsUnityDelegate.h
+Dishwasher/Library/PackageCache/com.unity.ads@2.0.8/Editor/Resources/iOS/builds/UnityAds.framework/Headers/UnityAdsExtended.h.meta
+Dishwasher/Library/PackageCache/com.unity.ads@2.0.8/Editor/Resources/iOS/builds/UnityAds.framework/Headers/UnityAdsExtended.h
+Dishwasher/Library/PackageCache/com.unity.ads@2.0.8/Editor/Resources/iOS/builds/UnityAds.framework/Headers/UnityAds.h.meta
+Dishwasher/Library/PackageCache/com.unity.ads@2.0.8/Editor/Resources/iOS/builds/UnityAds.framework/Headers/UnityAds.h
+Dishwasher/Library/PackageCache/com.unity.ads@2.0.8/Editor/Resources/iOS/builds/UnityAds.framework/Headers/UADSPlayerMetaData.h.meta
+Dishwasher/Library/PackageCache/com.unity.ads@2.0.8/Editor/Resources/iOS/builds/UnityAds.framework/Headers/UADSPlayerMetaData.h
+Dishwasher/Library/PackageCache/com.unity.ads@2.0.8/Editor/Resources/iOS/builds/UnityAds.framework/Headers/UADSMetaData.h.meta
+Dishwasher/Library/PackageCache/com.unity.ads@2.0.8/Editor/Resources/iOS/builds/UnityAds.framework/Headers/UADSMetaData.h
+Dishwasher/Library/PackageCache/com.unity.ads@2.0.8/Editor/Resources/iOS/builds/UnityAds.framework/Headers/UADSMediationMetaData.h.meta
+Dishwasher/Library/PackageCache/com.unity.ads@2.0.8/Editor/Resources/iOS/builds/UnityAds.framework/Headers/UADSMediationMetaData.h
+Dishwasher/Library/PackageCache/com.unity.ads@2.0.8/Editor/Resources/iOS/builds/UnityAds.framework/Headers/UADSJsonStorage.h.meta
+Dishwasher/Library/PackageCache/com.unity.ads@2.0.8/Editor/Resources/iOS/builds/UnityAds.framework/Headers/UADSJsonStorage.h
+Dishwasher/Library/PackageCache/com.unity.ads@2.0.8/Editor/Resources/iOS/builds/UnityAds.framework/Headers/UADSInAppPurchaseMetaData.h.meta
+Dishwasher/Library/PackageCache/com.unity.ads@2.0.8/Editor/Resources/iOS/builds/UnityAds.framework/Headers/UADSInAppPurchaseMetaData.h
+Dishwasher/Library/PackageCache/com.unity.ads@2.0.8/Editor/Resources/iOS/builds/UnityAds.framework/Headers.meta
+Dishwasher/Library/PackageCache/com.unity.ads@2.0.8/Editor/Resources/iOS/builds/UnityAds.framework.meta
+Dishwasher/Library/PackageCache/com.unity.ads@2.0.8/Editor/Resources/iOS/builds.meta
+Dishwasher/Library/PackageCache/com.unity.ads@2.0.8/Editor/Resources/iOS.meta
+Dishwasher/Library/PackageCache/com.unity.ads@2.0.8/Editor/Resources/Editor/portrait.jpg.meta
+Dishwasher/Library/PackageCache/com.unity.ads@2.0.8/Editor/Resources/Editor/portrait.jpg
+Dishwasher/Library/PackageCache/com.unity.ads@2.0.8/Editor/Resources/Editor/landscape.jpg.meta
+Dishwasher/Library/PackageCache/com.unity.ads@2.0.8/Editor/Resources/Editor/landscape.jpg
+Dishwasher/Library/PackageCache/com.unity.ads@2.0.8/Editor/Resources/Editor.meta
+Dishwasher/Library/PackageCache/com.unity.ads@2.0.8/Editor/Resources/Android/builds/unity-ads.aar.meta
+Dishwasher/Library/PackageCache/com.unity.ads@2.0.8/Editor/Resources/Android/builds/unity-ads.aar
+Dishwasher/Library/PackageCache/com.unity.ads@2.0.8/Editor/Resources/Android/builds.meta
+Dishwasher/Library/PackageCache/com.unity.ads@2.0.8/Editor/Resources/Android.meta
+Dishwasher/Library/PackageCache/com.unity.ads@2.0.8/Editor/Resources.meta
+Dishwasher/Library/PackageCache/com.unity.ads@2.0.8/Editor.meta
+Dishwasher/Library/PackageCache/com.unity.ads@2.0.8/CHANGELOG.md.meta
+Dishwasher/Library/PackageCache/com.unity.ads@2.0.8/CHANGELOG.md
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Tests/Runtime.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Tests/Editor/Unity.TextMeshPro.Editor.Tests.asmdef.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Tests/Editor/Unity.TextMeshPro.Editor.Tests.asmdef
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Tests/Editor/TMP_EditorTests.cs.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Tests/Editor/TMP_EditorTests.cs
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Tests/Editor.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Tests.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Runtime/Unity.TextMeshPro.asmdef.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Runtime/TMP_TextElement.cs
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Runtime/TMP_Text.cs.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Runtime/TMP_Text.cs
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Runtime/TMP_SubMeshUI.cs.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Runtime/TMP_SubMeshUI.cs
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Runtime/TMP_SubMesh.cs.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Runtime/TMP_SubMesh.cs
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Runtime/TMP_StyleSheet.cs.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Runtime/TMP_StyleSheet.cs
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Runtime/TMP_Style.cs.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Runtime/TMP_Style.cs
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Runtime/TMP_SpriteAssetImportFormats.cs.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Runtime/TMP_SpriteAssetImportFormats.cs
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Runtime/TMP_SpriteAsset.cs.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Runtime/TMP_SpriteAsset.cs
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Runtime/TMP_SpriteAnimator.cs.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Editor/TMPro_FontAssetCreatorWindow.cs.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Editor/TMPro_FontAssetCreatorWindow.cs
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Editor/TMPro_EditorShaderUtilities.cs.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Editor/TMPro_EditorShaderUtilities.cs
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Editor/TMPro_CreateObjectMenu.cs.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Editor/TMPro_CreateObjectMenu.cs
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Editor/TMPro_ContextMenus.cs.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Editor/TMPro_ContextMenus.cs
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Editor/TMP_UiEditorPanel.cs.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Editor/TMP_UiEditorPanel.cs
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Editor/TMP_UIStyleManager.cs.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Editor/TMP_UIStyleManager.cs
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Editor/TMP_SubMesh_Editor.cs.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Editor/TMP_SubMesh_Editor.cs
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Editor/TMP_SubMeshUI_Editor.cs.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Editor/TMP_SubMeshUI_Editor.cs
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Editor/EditorCoroutine.cs.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Editor/EditorCoroutine.cs
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Editor/DropdownOptionListDrawer.cs.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Editor/DropdownOptionListDrawer.cs
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Editor.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Plugins/vcomp120.dll.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Plugins/vcomp120.dll
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Editor Resources/Textures/btn_AlignCenterGeo_Light.psd
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Editor Resources/Textures/btn_AlignCenterGeo.psd.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Editor Resources/Textures/btn_AlignCenterGeo.psd
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Editor Resources/Textures/btn_AlignCenter.psd.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Editor Resources/Textures/btn_AlignCenter.psd
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Editor Resources/Textures/btn_AlignCapLine_Light.psd.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Editor Resources/Textures/btn_AlignCapLine_Light.psd
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Editor Resources/Textures/btn_AlignCapLine.psd.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Editor Resources/Textures/btn_AlignCapLine.psd
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Editor Resources/Textures/btn_AlignBottom_Light.psd.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Editor Resources/Textures/btn_AlignBottom_Light.psd
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Editor Resources/Textures/btn_AlignBottom.psd.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Editor Resources/Textures/btn_AlignBottom.psd
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Editor Resources/Textures/btn_AlignBaseLine_Light.psd.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Editor Resources/Textures/btn_AlignBaseLine_Light.psd
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Editor Resources/Textures/btn_AlignBaseLine.psd.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Tests/Editor/Services.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Tests/Editor/Common/UITests.cs.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Tests/Editor/Common/UITests.cs
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Tests/Editor/Common/PackageSets.cs.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Tests/Editor/Common/PackageSets.cs
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Tests/Editor/Common.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Tests/Editor/AssemblyInfo.cs.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Tests/Editor/AssemblyInfo.cs
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Tests/Editor.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Tests.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/README.md.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/README.md
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/LICENSE.md.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/LICENSE.md
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Unity.PackageManagerUI.Editor.asmdef.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Unity.PackageManagerUI.Editor.asmdef
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Sources/Services/Packages/Package.cs
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Sources/Services/Packages.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Sources/Services/OperationFactory.cs.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Sources/Services/OperationFactory.cs
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Sources/Services/Interfaces/ISearchOperation.cs.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Sources/Services/Interfaces/ISearchOperation.cs
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Sources/Services/Interfaces/IRemoveOperation.cs.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Sources/Services/Interfaces/IRemoveOperation.cs
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Sources/Services/Interfaces/IOperationFactory.cs.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Images/Light/btnRightOn.png
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Images/Light/btnRight@2x.png.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Images/Light/btnRight@2x.png
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Images/Light/btnRight.png.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Images/Light/btnRight.png
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Images/Light/btnOn@2x.png.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Images/Light/btnOn@2x.png
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Images/Light/btnOn.png.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Images/Light/btnOn.png
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Images/Light/btnMidOn@2x.png.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Images/Light/btnMidOn@2x.png
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Images/Light/btnMidOn.png.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Images/Light/btnMidOn.png
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Images/Light/btnMid@2x.png.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Images/Light/btnMid@2x.png
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Images/Light/btnMid.png.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Images/Light/btnMid.png
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Images/Light/btnLeftOn@2x.png.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Images/Light/btnLeftOn@2x.png
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Images/Light/btnLeftOn.png.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Images/Light/btnLeftOn.png
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Images/Light/btnLeft@2x.png.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Images/Light/btnLeft@2x.png
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Images/Light/btnLeft.png.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Images/Light/btnLeft.png
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Images/Light/btn@2x.png.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Images/Light/btn@2x.png
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Images/Light/btn.png.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Images/Light/btn.png
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Images/Light.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Images/Dark/download.png.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Images/Dark/download.png
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Images/Dark/btnRightOn@2x.png.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Images/Dark/btnRightOn@2x.png
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Images/Dark/btnRightOn.png.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Images/Dark/btnRightOn.png
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Images/Dark/btnRight@2x.png.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Images/Dark/btnRight@2x.png
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Images/Dark/btnRight.png.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Images/Dark/btnRight.png
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Images/Dark/btnOn@2x.png.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Images/Dark/btnOn@2x.png
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Images/Dark/btnOn.png.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Images/Dark/btnOn.png
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Images/Dark/btnMidOn@2x.png.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Images/Dark/btnMidOn@2x.png
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Images/Dark/btnMidOn.png.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Images/Dark/btnMidOn.png
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Images/Dark/btnMid@2x.png.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Images/Dark/btnMid@2x.png
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Images/Dark/btnMid.png.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Images/Dark/btnMid.png
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Images/Dark/btnLeftOn@2x.png.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Images/Dark/btnLeftOn@2x.png
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Images/Dark/btnLeftOn.png.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Images/Dark/btnLeftOn.png
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Images/Dark/btnLeft@2x.png.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Images/Dark/btnLeft@2x.png
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Images/Dark/btnLeft.png.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Images/Dark/btnLeft.png
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Images/Dark/btn@2x.png.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Images/Dark/btn@2x.png
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Images/Dark/btn.png.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Images/Dark/btn.png
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Images/Dark.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Images.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/AssemblyInfo.cs.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/AssemblyInfo.cs
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Documentation~/package-manager-ui.md
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Documentation~/Images/PackageManagerUI-ViewDocs.png
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Documentation~/Images/PackageManagerUI-VersionsAvailable.png
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Documentation~/Images/PackageManagerUI-UpdateButton.png
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Documentation~/Images/PackageManagerUI-Tags.png
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Documentation~/Images/PackageManagerUI-StatusBar.png
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Documentation~/Images/PackageManagerUI-RemoveButton.png
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Documentation~/Images/PackageManagerUI-PackageStructure.png
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Documentation~/Images/PackageManagerUI-Modes.png
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Documentation~/Images/PackageManagerUI-Main.png
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Documentation~/Images/PackageManagerUI-InstallButton.png
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Documentation~/Images/PackageManagerUI-DocSite.png
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Documentation~/Images/PackageManagerUI-DisableButton.png
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Documentation~/Images/PackageManagerUI-DetailsPane.png
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Documentation~/Images/PackageManagerUI-Access.png
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/CHANGELOG.md.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/CHANGELOG.md
+Dishwasher/Library/PackageCache/com.unity.analytics@2.0.16/package.json.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/package.json.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/package.json
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Tests/Runtime/Unity.TextMeshPro.Tests.asmdef.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Tests/Runtime/Unity.TextMeshPro.Tests.asmdef
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Tests/Runtime/TMP_RuntimeTests.cs.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Tests/Runtime/TMP_RuntimeTests.cs
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Runtime/TMPro_FontUtilities.cs
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Runtime/TMPro_ExtensionMethods.cs.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Runtime/TMPro_ExtensionMethods.cs
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Runtime/TMPro_EventManager.cs.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Runtime/TMPro_EventManager.cs
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Runtime/TMP_XmlTagStack.cs.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Runtime/TMP_XmlTagStack.cs
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Runtime/TMP_UpdateRegistery.cs.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Runtime/TMP_UpdateRegistery.cs
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Runtime/TMP_UpdateManager.cs.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Runtime/TMP_UpdateManager.cs
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Runtime/TMP_TextUtilities.cs.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Runtime/TMP_TextUtilities.cs
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Runtime/TMP_TextInfo.cs.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Runtime/TMP_TextInfo.cs
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Runtime/TMP_TextElement.cs.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Runtime/TMP_Compatibility.cs
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Runtime/TMP_ColorGradient.cs.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Runtime/TMP_ColorGradient.cs
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Runtime/TMP_Asset.cs.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Runtime/TMP_Asset.cs
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Runtime/PackageResourceImporterWindow.cs.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Runtime/PackageResourceImporterWindow.cs
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Runtime/MaterialReferenceManager.cs.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Editor/TMP_DropdownEditor.cs.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Editor/TMP_DropdownEditor.cs
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Editor/TMP_ColorGradientEditor.cs.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Editor/TMP_ColorGradientEditor.cs
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Editor/TMP_ColorGradientAssetMenu.cs.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Editor/TMP_ColorGradientAssetMenu.cs
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Editor/TMP_BitmapShaderGUI.cs.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Editor/TMP_BitmapShaderGUI.cs
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Editor/TMP_BaseShaderGUI.cs.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Editor/TMP_BaseShaderGUI.cs
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Editor/SpriteInfoDrawer.cs.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Editor/SpriteInfoDrawer.cs
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Editor/KerningPairDrawer.cs.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Editor/KerningPairDrawer.cs
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Editor/GlyphInfoDrawer.cs.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Editor/GlyphInfoDrawer.cs
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/LICENSE.md
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Editor Resources/Textures/btn_AlignTop_Light.psd.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Editor Resources/Textures/btn_AlignTop_Light.psd
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Editor Resources/Textures/btn_AlignTop.psd.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Editor Resources/Textures/btn_AlignTop.psd
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Editor Resources/Textures/btn_AlignRight_Light.psd.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Editor Resources/Textures/btn_AlignRight_Light.psd
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Editor Resources/Textures/btn_AlignRight.psd.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Editor Resources/Textures/btn_AlignRight.psd
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Editor Resources/Textures/btn_AlignMidline_Light.psd.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Editor Resources/Textures/btn_AlignMidline_Light.psd
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Editor Resources/Textures/btn_AlignMiddle_Light.psd.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Editor Resources/Textures/btn_AlignMiddle_Light.psd
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Editor Resources/Textures/btn_AlignMiddle.psd.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Editor Resources/Textures/btn_AlignMiddle.psd
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Editor Resources/Textures/btn_AlignMidLine.psd.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Tests/Editor/Services/Mock/MockRemoveOperation.cs.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Tests/Editor/Services/Mock/MockRemoveOperation.cs
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Tests/Editor/Services/Mock/MockOperation.cs.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Tests/Editor/Services/Mock/MockOperation.cs
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Tests/Editor/Services/Mock/MockListOperation.cs.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Tests/Editor/Services/Mock/MockListOperation.cs
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Tests/Editor/Services/Mock/MockAddOperation.cs.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Tests/Editor/Services/Mock/MockAddOperation.cs
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Tests/Editor/Services/Mock.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Sources/Services/Interfaces/IOperationFactory.cs
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Sources/Services/Interfaces/IListOperation.cs.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Sources/Services/Interfaces/IListOperation.cs
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Sources/Services/Interfaces/IBaseOperation.cs.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Sources/Services/Interfaces/IBaseOperation.cs
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Sources/Services/Interfaces/IAddOperation.cs.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Sources/Services/Interfaces/IAddOperation.cs
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Sources/Services/Interfaces.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Sources/Services/Common/ThreadedDelay.cs.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Sources/Services/Common/ThreadedDelay.cs
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Sources/Services/Common/Resources.cs.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Sources/Services/Common/Resources.cs
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Sources/Services/Common/OperationSignal.cs.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Sources/Services/Common/OperationSignal.cs
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Sources/Services/Common/ApplicationUtil.cs.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Sources/Services/Common/ApplicationUtil.cs
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Sources/Services/Common.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Sources/Services.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Sources/External/SemVersionExtension.cs.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Sources/External/SemVersionExtension.cs
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Sources/External/SemVersion.cs.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Sources/External/SemVersion.cs
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Sources/External.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Sources.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Templates/UIElementsSchema/UnityEngine.Experimental.UIElements.xsd.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Templates/UIElementsSchema/UnityEngine.Experimental.UIElements.xsd
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Templates/UIElementsSchema/UnityEditor.PackageManager.UI.xsd.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Templates/UIElementsSchema/UnityEditor.PackageManager.UI.xsd
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Templates/UIElementsSchema/UnityEditor.Experimental.UIElements.xsd.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Templates/UIElementsSchema/UnityEditor.Experimental.UIElements.xsd
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Templates/UIElementsSchema/UIElements.xsd.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Templates/UIElementsSchema/UIElements.xsd
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Templates/UIElementsSchema.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Templates/PackagesLoading.uxml.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Templates/PackagesLoading.uxml
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Templates/PackageSearchFilterTabs.uxml.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Templates/PackageSearchFilterTabs.uxml
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Templates/PackageManagerWindow.uxml.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Templates/PackageManagerWindow.uxml
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Templates/PackageList.uxml.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Templates/PackageList.uxml
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Templates/PackageItem.uxml.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Templates/PackageItem.uxml
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Templates/PackageGroup.uxml.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Templates/PackageGroup.uxml
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Templates/PackageDetails.uxml.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Templates/PackageDetails.uxml
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Templates/Alert.uxml.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Templates/Alert.uxml
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Templates.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Styles/_common.scss.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Styles/_common.scss
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Styles/Main_Light.uss.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Styles/Main_Light.uss
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Styles/Main_Light.scss.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Styles/Main_Light.scss
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Styles/Main_Dark.uss.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Styles/Main_Dark.uss
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Styles/Main_Dark.scss.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Styles/Main_Dark.scss
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Styles.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Images/inprogress.png.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Images/inprogress.png
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Images/error.png.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Images/error.png
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Images/download.png.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Images/download.png
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Images/Spinner/Light/loading.png.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Images/Spinner/Light/loading.png
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Images/Spinner/Light.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Images/Spinner/Dark/loading.png.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Images/Spinner/Dark/loading.png
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Images/Spinner/Dark.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Images/Spinner.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Images/Light/download.png.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Images/Light/download.png
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Images/Light/btnRightOn@2x.png.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Images/Light/btnRightOn@2x.png
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Resources/Images/Light/btnRightOn.png.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Runtime/MaterialReferenceManager.cs
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Runtime/FastAction.cs.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Runtime/FastAction.cs
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Runtime.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Editor/Unity.TextMeshPro.Editor.asmdef.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Editor/Unity.TextMeshPro.Editor.asmdef
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Editor/TMPro_TexturePostProcessor.cs.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Editor/TMPro_TexturePostProcessor.cs
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Editor/TMPro_TextContainerEditor.cs.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Editor/TMPro_TextContainerEditor.cs
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Editor/TMPro_SortingLayerHelper.cs.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Editor/TMPro_SortingLayerHelper.cs
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Editor/TMPro_SDFMaterialEditor.cs.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Editor/TMPro_SDFMaterialEditor.cs
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Editor/TMPro_FontPlugin.cs.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Editor/TMPro_FontPlugin.cs
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Plugins/64 Bit Plugins/TMPro_Plugin.dll.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Plugins/64 Bit Plugins/TMPro_Plugin.dll
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Plugins/64 Bit Plugins/TMPro_Plugin.bundle.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Plugins/64 Bit Plugins/TMPro_Plugin.bundle
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Plugins/64 Bit Plugins.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Plugins.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/PackageConversionData_Assets.json.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/PackageConversionData_Assets.json
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/PackageConversionData.json.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/PackageConversionData.json
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Package Resources/TMP Examples & Extras.unitypackage.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Package Resources/TMP Examples & Extras.unitypackage
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Package Resources/TMP Essential Resources.unitypackage.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Package Resources/TMP Essential Resources.unitypackage
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Package Resources.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/LICENSE.md.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Editor Resources/Textures/Box Area Dark (LEFT).png
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Editor Resources/Textures/Box Area 85 Dark.png.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Editor Resources/Textures/Box Area 85 Dark.png
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Editor Resources/Textures.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Editor Resources/TMPro_LightSkin.guiskin.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Editor Resources/TMPro_LightSkin.guiskin
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Editor Resources/TMPro_DarkSkin.guiskin.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Editor Resources/TMPro_DarkSkin.guiskin
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Editor Resources/Gizmos/TextMeshPro Inline Graphics icon.psd.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Sources/UI/Interfaces/IPackageManagerExtension.cs.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Sources/UI/Interfaces/IPackageManagerExtension.cs
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Sources/UI/Interfaces.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Sources/UI/Common/VersionItem.cs.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Sources/UI/Common/VersionItem.cs
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Sources/UI/Common/UIUtils.cs.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Sources/UI/Common/UIUtils.cs
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Sources/UI/Common/PopupField.cs.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Sources/UI/Common/PopupField.cs
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Sources/UI/Common/LoadingSpinner.cs.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Sources/UI/Common/LoadingSpinner.cs
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Sources/UI/Common/Alert.cs.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Sources/UI/Common/Alert.cs
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Sources/UI/Common.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Sources/UI.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Sources/Services/Upm/UpmSearchOperation.cs.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Sources/Services/Upm/UpmSearchOperation.cs
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Sources/Services/Upm/UpmRemoveOperation.cs.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Sources/Services/Upm/UpmRemoveOperation.cs
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Sources/Services/Upm/UpmOperationFactory.cs.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Sources/Services/Upm/UpmOperationFactory.cs
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Sources/Services/Upm/UpmListOperation.cs.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Sources/Services/Upm/UpmListOperation.cs
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Sources/Services/Upm/UpmBaseOperation.cs.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Sources/Services/Upm/UpmBaseOperation.cs
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Sources/Services/Upm/UpmAddOperation.cs.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Sources/Services/Upm/UpmAddOperation.cs
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Sources/Services/Upm.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Sources/Services/Packages/PackageTag.cs.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Sources/Services/Packages/PackageTag.cs
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Sources/Services/Packages/PackageState.cs.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Sources/Services/Packages/PackageState.cs
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Sources/Services/Packages/PackageOrigin.cs.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Sources/Services/Packages/PackageOrigin.cs
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Sources/Services/Packages/PackageListExtensions.cs.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Sources/Services/Packages/PackageListExtensions.cs
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Sources/Services/Packages/PackageInfoListExtensions.cs.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Sources/Services/Packages/PackageInfoListExtensions.cs
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Sources/Services/Packages/PackageInfo.cs.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Sources/Services/Packages/PackageInfo.cs
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Sources/Services/Packages/PackageGroupOrigins.cs.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Sources/Services/Packages/PackageGroupOrigins.cs
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Sources/Services/Packages/PackageFilter.cs.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Sources/Services/Packages/PackageFilter.cs
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Sources/Services/Packages/PackageCollection.cs.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Sources/Services/Packages/PackageCollection.cs
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Editor/Sources/Services/Packages/Package.cs.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Runtime/Unity.TextMeshPro.asmdef
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Runtime/TextMeshProUGUI.cs.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Runtime/TextMeshProUGUI.cs
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Runtime/TextMeshPro.cs.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Runtime/TextMeshPro.cs
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Runtime/TextContainer.cs.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Runtime/TextContainer.cs
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Runtime/TMPro_UGUI_Private.cs.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Runtime/TMPro_UGUI_Private.cs
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Runtime/TMPro_ShaderUtilities.cs.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Runtime/TMPro_ShaderUtilities.cs
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Runtime/TMPro_Private.cs.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Runtime/TMPro_Private.cs
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Runtime/TMPro_MeshUtilities.cs.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Runtime/TMPro_MeshUtilities.cs
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Runtime/TMPro_FontUtilities.cs.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Runtime/TMP_ListPool.cs
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Runtime/TMP_LineInfo.cs.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Runtime/TMP_LineInfo.cs
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Runtime/TMP_InputValidator.cs.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Runtime/TMP_InputValidator.cs
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Runtime/TMP_InputField.cs.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Runtime/TMP_InputField.cs
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Runtime/TMP_FontAsset.cs.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Runtime/TMP_FontAsset.cs
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Runtime/TMP_Dropdown.cs.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Runtime/TMP_Dropdown.cs
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Runtime/TMP_DefaultControls.cs.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Runtime/TMP_DefaultControls.cs
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Runtime/TMP_CoroutineTween.cs.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Runtime/TMP_CoroutineTween.cs
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Runtime/TMP_Compatibility.cs.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Editor/TMP_ProjectTextSettings.cs.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Editor/TMP_ProjectTextSettings.cs
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Editor/TMP_PostBuildProcessHandler.cs.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Editor/TMP_PostBuildProcessHandler.cs
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Editor/TMP_PackageUtilities.cs.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Editor/TMP_PackageUtilities.cs
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Editor/TMP_MeshRendererEditor.cs.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Editor/TMP_MeshRendererEditor.cs
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Editor/TMP_InputFieldEditor.cs.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Editor/TMP_InputFieldEditor.cs
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Editor/TMP_FontAssetEditor.cs.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Editor/TMP_FontAssetEditor.cs
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Editor/TMP_EditorUtility.cs.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Editor/TMP_EditorUtility.cs
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Editor/TMP_EditorPanel.cs.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Editor/TMP_EditorPanel.cs
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Editor Resources/Textures/btn_AlignMidLine.psd
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Editor Resources/Textures/btn_AlignLeft_Light.psd.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Editor Resources/Textures/btn_AlignLeft_Light.psd
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Editor Resources/Textures/btn_AlignLeft.psd.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Editor Resources/Textures/btn_AlignLeft.psd
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Editor Resources/Textures/btn_AlignJustified_Light.psd.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Editor Resources/Textures/btn_AlignJustified_Light.psd
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Editor Resources/Textures/btn_AlignJustified.psd.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Editor Resources/Textures/btn_AlignJustified.psd
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Editor Resources/Textures/btn_AlignFlush_Light.psd.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Editor Resources/Textures/btn_AlignFlush_Light.psd
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Editor Resources/Textures/btn_AlignFlush.psd.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Editor Resources/Textures/btn_AlignFlush.psd
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Editor Resources/Textures/btn_AlignCenter_Light.psd.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Editor Resources/Textures/btn_AlignCenter_Light.psd
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Editor Resources/Textures/btn_AlignCenterGeo_Light.psd.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Editor Resources/Gizmos/TextMeshPro Inline Graphics icon.psd
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Editor Resources/Gizmos/TMP - Text Component Icon.psd.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Editor Resources/Gizmos/TMP - Text Component Icon.psd
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Editor Resources/Gizmos/TMP - Input Field Icon.psd.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Editor Resources/Gizmos/TMP - Input Field Icon.psd
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Editor Resources/Gizmos/TMP - Font Asset Icon.psd.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Editor Resources/Gizmos/TMP - Font Asset Icon.psd
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Editor Resources/Gizmos/TMP - Dropdown Icon.psd.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Editor Resources/Gizmos/TMP - Dropdown Icon.psd
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Editor Resources/Gizmos.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Editor Resources.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Documentation/TextMeshPro.md.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Documentation/TextMeshPro.md
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/Documentation.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/CHANGELOG.md.meta
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/CHANGELOG.md
+Dishwasher/Library/PackageCache/com.unity.textmeshpro@1.2.4/.gitlab-ci.yml
+Dishwasher/Library/PackageCache/com.unity.standardevents@1.0.13/package.json.meta
+Dishwasher/Library/PackageCache/com.unity.standardevents@1.0.13/package.json
+Dishwasher/Library/PackageCache/com.unity.standardevents@1.0.13/UnityEngine.StandardEvents.dll.meta
+Dishwasher/Library/PackageCache/com.unity.standardevents@1.0.13/UnityEngine.StandardEvents.dll.mdb.meta
+Dishwasher/Library/PackageCache/com.unity.standardevents@1.0.13/UnityEngine.StandardEvents.dll.mdb
+Dishwasher/Library/PackageCache/com.unity.standardevents@1.0.13/UnityEngine.StandardEvents.dll
+Dishwasher/Library/PackageCache/com.unity.standardevents@1.0.13/README.md.meta
+Dishwasher/Library/PackageCache/com.unity.standardevents@1.0.13/README.md
+Dishwasher/Library/PackageCache/com.unity.standardevents@1.0.13/License.md.meta
+Dishwasher/Library/PackageCache/com.unity.standardevents@1.0.13/License.md
+Dishwasher/Library/PackageCache/com.unity.standardevents@1.0.13/Editor/Importer.cs.meta
+Dishwasher/Library/PackageCache/com.unity.standardevents@1.0.13/Editor/Importer.cs
+Dishwasher/Library/PackageCache/com.unity.standardevents@1.0.13/Editor/Editor.asmdef.meta
+Dishwasher/Library/PackageCache/com.unity.standardevents@1.0.13/Editor/Editor.asmdef
+Dishwasher/Library/PackageCache/com.unity.standardevents@1.0.13/Editor.meta
+Dishwasher/Library/PackageCache/com.unity.standardevents@1.0.13/Documentation~/standardevents.md
+Dishwasher/Library/PackageCache/com.unity.standardevents@1.0.13/CHANGELOG.md.meta
+Dishwasher/Library/PackageCache/com.unity.standardevents@1.0.13/CHANGELOG.md
+Dishwasher/Library/PackageCache/com.unity.purchasing@2.0.3/package.json.meta
+Dishwasher/Library/PackageCache/com.unity.purchasing@2.0.3/package.json
+Dishwasher/Library/PackageCache/com.unity.purchasing@2.0.3/UnityEngine.Purchasing.dll.meta
+Dishwasher/Library/PackageCache/com.unity.purchasing@2.0.3/UnityEngine.Purchasing.dll.mdb.meta
+Dishwasher/Library/PackageCache/com.unity.purchasing@2.0.3/UnityEngine.Purchasing.dll.mdb
+Dishwasher/Library/PackageCache/com.unity.purchasing@2.0.3/UnityEngine.Purchasing.dll
+Dishwasher/Library/PackageCache/com.unity.purchasing@2.0.3/README.md.meta
+Dishwasher/Library/PackageCache/com.unity.purchasing@2.0.3/README.md
+Dishwasher/Library/PackageCache/com.unity.purchasing@2.0.3/License.md.meta
+Dishwasher/Library/PackageCache/com.unity.purchasing@2.0.3/License.md
+Dishwasher/Library/PackageCache/com.unity.purchasing@2.0.3/Editor/UnityEditor.Purchasing.dll.meta
+Dishwasher/Library/PackageCache/com.unity.purchasing@2.0.3/Editor/UnityEditor.Purchasing.dll.mdb.meta
+Dishwasher/Library/PackageCache/com.unity.purchasing@2.0.3/Editor/UnityEditor.Purchasing.dll.mdb
+Dishwasher/Library/PackageCache/com.unity.purchasing@2.0.3/Editor/UnityEditor.Purchasing.dll
+Dishwasher/Library/PackageCache/com.unity.purchasing@2.0.3/Editor.meta
+Dishwasher/Library/PackageCache/com.unity.purchasing@2.0.3/Documentation/IAP.md.meta
+Dishwasher/Library/PackageCache/com.unity.purchasing@2.0.3/Documentation/IAP.md
+Dishwasher/Library/PackageCache/com.unity.purchasing@2.0.3/Documentation.meta
+Dishwasher/Library/PackageCache/com.unity.purchasing@2.0.3/CHANGELOG.md.meta
+Dishwasher/Library/PackageCache/com.unity.purchasing@2.0.3/CHANGELOG.md
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/package.json.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/package.json
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Third Party Notices.md.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Third Party Notices.md
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Tests/Editor/Unity.PackageManagerUI.EditorTests.asmdef.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Tests/Editor/Unity.PackageManagerUI.EditorTests.asmdef
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Tests/Editor/UI/PackageManagerWindowTests.cs.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Tests/Editor/UI/PackageManagerWindowTests.cs
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Tests/Editor/UI/PackageDetailsTests.cs.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Tests/Editor/UI/PackageDetailsTests.cs
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Tests/Editor/UI.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Tests/Editor/Services/Packages/PackageTests.cs.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Tests/Editor/Services/Packages/PackageTests.cs
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Tests/Editor/Services/Packages/PackageInfoTests.cs.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Tests/Editor/Services/Packages/PackageInfoTests.cs
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Tests/Editor/Services/Packages/PackageCollectionTests.cs.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Tests/Editor/Services/Packages/PackageCollectionTests.cs
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Tests/Editor/Services/Packages/PackageBaseTests.cs.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Tests/Editor/Services/Packages/PackageBaseTests.cs
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Tests/Editor/Services/Packages.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Tests/Editor/Services/MockOperationFactory.cs.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Tests/Editor/Services/MockOperationFactory.cs
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Tests/Editor/Services/Mock/MockSearchOperation.cs.meta
+Dishwasher/Library/PackageCache/com.unity.package-manager-ui@1.9.11/Tests/Editor/Services/Mock/MockSearchOperation.cs
