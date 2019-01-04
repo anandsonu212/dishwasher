@@ -13,18 +13,11 @@ using System.Net;
 
 public class DishwasherGameManager : MonoBehaviour
 {
-
-
     public mcqquestion[] questions;   // creates an array which has a fixed size
     private static List<mcqquestion> unansweredQuestions; //creates list which changes its size during gameplay 
     private mcqquestion currentQuestion;
-
-
     public static int newhighscore;
-
     public Animator answers;
-
-
     public static int totalquestionstoask = 3;     //Change this value to set how many questions you have to ask in the game.
 
 
@@ -104,7 +97,6 @@ public class DishwasherGameManager : MonoBehaviour
     {
         if (unansweredQuestions == null || unansweredQuestions.Count == 0)
         {
-
             unansweredQuestions = questions.ToList<mcqquestion>();
         }
 
@@ -116,22 +108,13 @@ public class DishwasherGameManager : MonoBehaviour
         if (totalquestionstoask == 0)
         {
             Debug.Log("Unanwered count" + totalquestionstoask);
-
-           
-                SceneManager.LoadScene("Summary");
-            //stopgame();
-
+            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+            
         }
     }
 
     void SetCurrentQuestion(int questionIndex)
     {
-
-        // int randomQuestionIndex = Random.Range (0, unansweredQuestions.Count);
-        // for(int i=1; i<=unansweredQuestions.Count; i++)
-        //{
-        //    currentQuestion = unansweredQuestions[i];
-        //}
 
         currentQuestion = unansweredQuestions[questionIndex - 1];
         factText.text = currentQuestion.mcq;
@@ -140,8 +123,6 @@ public class DishwasherGameManager : MonoBehaviour
         option3.text = currentQuestion.option3;
         option4.text = currentQuestion.option4;
         ImageHolder.sprite = currentQuestion.Image;
-
-
     }
 
     //Section 1.1 
@@ -150,10 +131,8 @@ public class DishwasherGameManager : MonoBehaviour
     void Update()
     {
 
-
         if (end == 1)
         {
-
             return;
         }
 
@@ -183,17 +162,14 @@ public class DishwasherGameManager : MonoBehaviour
         Savecsv(totalquestionstoask, 1);
         if (currentQuestion.atrue)
         {
-
             //answerdialogbox.text = "CORRECT";
             correctanswers = correctanswers + 1;
-
             //GetComponent<Button>().colors = Color.green;
 
         }
 
         else
         {
-
             //answerdialogbox.text = "WRONG";
             wronganswers = wronganswers + 1;
         }
@@ -209,7 +185,6 @@ public class DishwasherGameManager : MonoBehaviour
         if (currentQuestion.btrue)
         {
             Debug.Log("Option2");
-
             //answerdialogbox.text = "CORRECT";
             correctanswers = correctanswers + 1;
 

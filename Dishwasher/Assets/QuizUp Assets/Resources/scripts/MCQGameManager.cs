@@ -13,18 +13,11 @@ using System.Net;
 
 public class MCQGameManager : MonoBehaviour
 {
-
-
     public mcqquestion[] questions;   // creates an array which has a fixed size
     private static List<mcqquestion> unansweredQuestions; //creates list which changes its size during gameplay 
     private mcqquestion currentQuestion;
-
-
     public static int newhighscore;
-
     public Animator answers;
-
-
     public static int totalquestionstoask = 3;     //Change this value to set how many questions you have to ask in the game.
 
 
@@ -32,7 +25,6 @@ public class MCQGameManager : MonoBehaviour
     private Text factText;
     [SerializeField]
     private Text showscore;
-
 
     [SerializeField]
     private Text option1;
@@ -116,9 +108,7 @@ public class MCQGameManager : MonoBehaviour
         if (totalquestionstoask == 0)
         {
             Debug.Log("Unanwered count" + totalquestionstoask);
-
-           
-                SceneManager.LoadScene("cookingTask");
+            SceneManager.LoadScene("cookingTask");
             //stopgame();
 
         }
@@ -153,7 +143,6 @@ public class MCQGameManager : MonoBehaviour
 
         if (end == 1)
         {
-
             return;
         }
 
@@ -170,12 +159,9 @@ public class MCQGameManager : MonoBehaviour
             SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
             totalquestionstoask = totalquestionstoask - 1;
         }
-
-
     }
 
     //end of section1.
-
     // section 2. this section is to show if the user's selected choice is correct or wrong
 
     public void option1selected()
@@ -183,17 +169,13 @@ public class MCQGameManager : MonoBehaviour
         Savecsv(totalquestionstoask, 1);
         if (currentQuestion.atrue)
         {
-
             //answerdialogbox.text = "CORRECT";
             correctanswers = correctanswers + 1;
-
             //GetComponent<Button>().colors = Color.green;
-
         }
 
         else
         {
-
             //answerdialogbox.text = "WRONG";
             wronganswers = wronganswers + 1;
         }
@@ -217,11 +199,8 @@ public class MCQGameManager : MonoBehaviour
 
         else
         {
-
             //nswerdialogbox.text = "WRONG";
             wronganswers = wronganswers + 1;
-
-
         }
 
         answers.SetTrigger("mcqanswershow");
@@ -293,9 +272,7 @@ public class MCQGameManager : MonoBehaviour
         }
         else
         {
-
             SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
-
         }
         unansweredQuestions.Remove(currentQuestion);
         totalquestionstoask = totalquestionstoask - 1;
