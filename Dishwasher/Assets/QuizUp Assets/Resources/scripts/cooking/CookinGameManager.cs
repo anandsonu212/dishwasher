@@ -6,27 +6,17 @@ using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 using System.Text;
 using System.IO;
-
 using System.Net;
-
 
 
 public class CookinGameManager : MonoBehaviour
 {
-
-
     public mcqquestion[] questions;   // creates an array which has a fixed size
     private static List<mcqquestion> unansweredQuestions; //creates list which changes its size during gameplay 
     private mcqquestion currentQuestion;
-
-
     public static int newhighscore;
-
     public Animator answers;
-
-
-    public static int totalquestionstoask = 3;     //Change this value to set how many questions you have to ask in the game.
-
+    public static int totalquestionstoask = 2;     //Change this value to set how many questions you have to ask in the game.
 
     [SerializeField]
     private Text factText;
@@ -70,6 +60,7 @@ public class CookinGameManager : MonoBehaviour
 
     private static int correctanswers = 0;
     private static int wronganswers = 0;
+    private static bool isAnswerCorrect = false;
 
     float end = 0;
 
@@ -110,29 +101,18 @@ public class CookinGameManager : MonoBehaviour
 
         if (totalquestionstoask > 0)
         {
+            showInitialScore();
             SetCurrentQuestion(totalquestionstoask);
         }
 
         if (totalquestionstoask == 0)
         {
-            Debug.Log("Unanwered count" + totalquestionstoask);
-
-           
-                SceneManager.LoadScene("cookingTask");
-            //stopgame();
-
+            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
         }
     }
 
     void SetCurrentQuestion(int questionIndex)
     {
-
-        // int randomQuestionIndex = Random.Range (0, unansweredQuestions.Count);
-        // for(int i=1; i<=unansweredQuestions.Count; i++)
-        //{
-        //    currentQuestion = unansweredQuestions[i];
-        //}
-
         currentQuestion = unansweredQuestions[questionIndex - 1];
         factText.text = currentQuestion.mcq;
         option1.text = currentQuestion.option1;
@@ -140,8 +120,6 @@ public class CookinGameManager : MonoBehaviour
         option3.text = currentQuestion.option3;
         option4.text = currentQuestion.option4;
         ImageHolder.sprite = currentQuestion.Image;
-
-
     }
 
     //Section 1.1 
@@ -150,10 +128,8 @@ public class CookinGameManager : MonoBehaviour
     void Update()
     {
 
-
         if (end == 1)
         {
-
             return;
         }
 
@@ -171,7 +147,6 @@ public class CookinGameManager : MonoBehaviour
             totalquestionstoask = totalquestionstoask - 1;
         }
 
-
     }
 
     //end of section1.
@@ -184,21 +159,17 @@ public class CookinGameManager : MonoBehaviour
         Savecsv(totalquestionstoask, 1);
         if (currentQuestion.atrue)
         {
-
             //answerdialogbox.text = "CORRECT";
+            isAnswerCorrect = true;
             correctanswers = correctanswers + 1;
-
             //GetComponent<Button>().colors = Color.green;
-
         }
 
         else
         {
-
             //answerdialogbox.text = "WRONG";
             wronganswers = wronganswers + 1;
         }
-
         answers.SetTrigger("mcqanswershow");
         StartCoroutine(TransitionToNextQuestion());
     }
@@ -211,19 +182,14 @@ public class CookinGameManager : MonoBehaviour
         if (currentQuestion.btrue)
         {
             Debug.Log("Option2");
-
+            isAnswerCorrect = true;
             //answerdialogbox.text = "CORRECT";
             correctanswers = correctanswers + 1;
-
         }
-
         else
         {
-
             //nswerdialogbox.text = "WRONG";
             wronganswers = wronganswers + 1;
-
-
         }
 
         answers.SetTrigger("mcqanswershow");
@@ -236,22 +202,16 @@ public class CookinGameManager : MonoBehaviour
         Savecsv(totalquestionstoask, 3);
         if (currentQuestion.ctrue)
         {
-
             //answerdialogbox.text = "CORRECT";
+            isAnswerCorrect = true;
             correctanswers = correctanswers + 1;
-
-
-
         }
 
         else
         {
-
             //answerdialogbox.text = "WRONG";
             wronganswers = wronganswers + 1;
-
         }
-
 
         answers.SetTrigger("mcqanswershow");
         StartCoroutine(TransitionToNextQuestion());
@@ -266,6 +226,7 @@ public class CookinGameManager : MonoBehaviour
 
 
             //answerdialogbox.text = "CORRECT";
+            isAnswerCorrect = true;
             correctanswers = correctanswers + 1;
 
         }
@@ -292,15 +253,14 @@ public class CookinGameManager : MonoBehaviour
 
         if (unansweredQuestions.Count == 0)
         {
-
+            //updatescores();
             SceneManager.LoadScene("cookingTask");
         }
         else
         {
-
             SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
-
         }
+        updateCurrentScore();
         unansweredQuestions.Remove(currentQuestion);
         totalquestionstoask = totalquestionstoask - 1;
         yield return new WaitForSeconds(timebetweenquestions);
@@ -316,12 +276,35 @@ public class CookinGameManager : MonoBehaviour
 
     }
 
+    public void updateCurrentScore()
+    {
+        int totalscore = isAnswerCorrect ? 10 : 0;
+        totalscore += PlayerPrefs.GetInt("totalscore", 0);
+        PlayerPrefs.SetInt("totalscore", totalscore);
+        PlayerPrefs.Save();
+        Text text = GameObject.Find("score").GetComponent<Text>();
+        text.text = "Score : " + totalscore.ToString();
+    }
+
+    public void updatescores()
+    {
+        int totalscore = correctanswers * 10;
+        totalscore += PlayerPrefs.GetInt("totalscore", 0);
+        PlayerPrefs.SetInt("totalscore", totalscore);
+        PlayerPrefs.Save();
+    }
+
+    public void showInitialScore()
+    {
+        int totalscore = PlayerPrefs.GetInt("totalscore", 0);
+        Text text = GameObject.Find("score").GetComponent<Text>();
+        text.text = "Score : " + totalscore.ToString();
+    }
 
     //section 4. Displays results of game
 
     void stopgame()
     {
-
         end = 1;
         //factText.text = "END OF QUESTIONS";
         correctanswerstext.text = correctanswers.ToString();
@@ -329,12 +312,9 @@ public class CookinGameManager : MonoBehaviour
         int score = correctanswers * 10;
         showscore.text = "Your Score: " + score.ToString();
         answers.SetTrigger("mcqover");
-
         Description = "I just scored " + correctanswers + " in QuizUp Android Game. CAN YOU BEAT ME?";
         Debug.Log("Stopped game");
         sethighscores();
-
-
     }
 
 
@@ -538,19 +518,19 @@ public class CookinGameManager : MonoBehaviour
     }
     public void Savecsv(int q_number, int option_selected)
     {
-       /* WebClient client = new WebClient();
-        client.Credentials = new NetworkCredential("", "");
-        byte[] lop = client.UploadFile("http://maxi-xlri.com/play/MCQResponses.csv", "MCQResponses.csv");
-        //  byte[] lop = client.UploadFile("C:\\Users\\Sonu Anand\\Documents\\MAXI\\MCQResponses.csv", "/trial");
-        Debug.Log(lop);
-        Debug.Log("file uploaded");
-        string filePath = @".\trial\MCQResponses.csv"; */
+        /* WebClient client = new WebClient();
+         client.Credentials = new NetworkCredential("", "");
+         byte[] lop = client.UploadFile("http://maxi-xlri.com/play/MCQResponses.csv", "MCQResponses.csv");
+         //  byte[] lop = client.UploadFile("C:\\Users\\Sonu Anand\\Documents\\MAXI\\MCQResponses.csv", "/trial");
+         Debug.Log(lop);
+         Debug.Log("file uploaded");
+         string filePath = @".\trial\MCQResponses.csv"; */
         string delimiter = ",";
         string[][] output = new string[][]{
              new string[]{ PlayerPrefs.GetString("User"),PlayerPrefs.GetString("Category"), q_number.ToString(), option_selected.ToString()}
                      };
-       // Debug.Log(option_selected.ToString());
-       
+        // Debug.Log(option_selected.ToString());
+
         int length = output.GetLength(0);
         Debug.Log(length);
         StringBuilder sb = new StringBuilder();
@@ -558,12 +538,12 @@ public class CookinGameManager : MonoBehaviour
             sb.AppendLine(string.Join(delimiter, output[index]));
         string x = sb.ToString();
         Debug.Log(x);
-       // StartCoroutine(sendResponsestoCSV(x));
-       // SceneManager.LoadScene("Close prompt");
-       // File.AppendAllText(filePath, sb.ToString());//
+        // StartCoroutine(sendResponsestoCSV(x));
+        // SceneManager.LoadScene("Close prompt");
+        // File.AppendAllText(filePath, sb.ToString());//
         Debug.Log("Data written blah blah");
 
-        
+
     }
 
     IEnumerator sendResponsestoCSV(string sb)
@@ -575,7 +555,7 @@ public class CookinGameManager : MonoBehaviour
         WWW send = new WWW("http://localhost/trial/php.php", form);
         yield return send;
         Debug.Log(send.text);
-        if (send.error!=null)
+        if (send.error != null)
         {
             success = false;
             Debug.Log(send.error);
@@ -585,7 +565,6 @@ public class CookinGameManager : MonoBehaviour
             Debug.Log(send.text);
             success = true;
         }
-      
-    }
 
+    }
 }

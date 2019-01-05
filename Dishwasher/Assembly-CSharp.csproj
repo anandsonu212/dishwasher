@@ -104,6 +104,7 @@
     <Compile Include="Assets\QuizUp Assets\Resources\scripts\tfGameManager.cs" />
     <Compile Include="Assets\QuizUp Assets\Resources\scripts\tfQuestion.cs" />
     <Compile Include="Assets\SaveCsvFile.cs" />
+    <Compile Include="Assets\ScoreViewScript.cs" />
     <Compile Include="Assets\sonumanager.cs" />
     <Compile Include="Assets\sonumnager.cs" />
     <None Include="Assets\Textures and Sprites\SF UI\Background\LICENSE.txt" />
