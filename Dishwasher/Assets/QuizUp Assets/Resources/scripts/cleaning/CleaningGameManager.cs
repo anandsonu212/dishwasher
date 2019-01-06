@@ -118,7 +118,7 @@ public class CleaningGameManager : MonoBehaviour
             Debug.Log("Unanwered count" + totalquestionstoask);
 
            
-                SceneManager.LoadScene("DishwashingPreview");
+                SceneManager.LoadScene("CleaningTask");
             //stopgame();
 
         }
@@ -177,14 +177,20 @@ public class CleaningGameManager : MonoBehaviour
     //end of section1.
 
     // section 2. this section is to show if the user's selected choice is correct or wrong
+    void setScore() {
+        int score = PlayerPrefs.GetInt("YourScore");
+        Debug.Log("--------------------Current Score-------------------" + score);
+        PlayerPrefs.SetInt("YourScore", (score + 10));
+    }
 
     public void option1selected()
     {
         Debug.Log("Cleaning Option1");
+       
         Savecsv(totalquestionstoask, 1);
         if (currentQuestion.atrue)
         {
-
+            setScore();
             //answerdialogbox.text = "CORRECT";
             correctanswers = correctanswers + 1;
 
@@ -207,9 +213,11 @@ public class CleaningGameManager : MonoBehaviour
     public void option2selected()
     {
         Debug.Log("Cleaning Option2");
+        
         Savecsv(totalquestionstoask, 2);
         if (currentQuestion.btrue)
         {
+            setScore();
             Debug.Log("Option2");
 
             //answerdialogbox.text = "CORRECT";
@@ -233,10 +241,11 @@ public class CleaningGameManager : MonoBehaviour
     public void option3selected()
     {
         Debug.Log("Cleaning Option3");
+        
         Savecsv(totalquestionstoask, 3);
         if (currentQuestion.ctrue)
         {
-
+            setScore();
             //answerdialogbox.text = "CORRECT";
             correctanswers = correctanswers + 1;
 
@@ -260,11 +269,12 @@ public class CleaningGameManager : MonoBehaviour
     public void option4selected()
     {
         Debug.Log("Cleaning Option4");
+        
         Savecsv(totalquestionstoask, 4);
         if (currentQuestion.dtrue)
         {
 
-
+            setScore();
             //answerdialogbox.text = "CORRECT";
             correctanswers = correctanswers + 1;
 
@@ -293,7 +303,7 @@ public class CleaningGameManager : MonoBehaviour
         if (unansweredQuestions.Count == 0)
         {
 
-            SceneManager.LoadScene("DishwashingPreview");
+            SceneManager.LoadScene("CleaningTask");
         }
         else
         {

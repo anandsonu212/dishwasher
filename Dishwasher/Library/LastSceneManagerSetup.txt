@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/QuizUp Assets/Resources/scenes/login.unity
+- path: Assets/QuizUp Assets/Resources/scenes/shopping/ShoppingTask.unity
   isLoaded: 1
   isActive: 1

@@ -181,11 +181,13 @@ public class CookinGameManager : MonoBehaviour
     public void option1selected()
     {
         Debug.Log("Option 1 selected");
+        
         Savecsv(totalquestionstoask, 1);
         if (currentQuestion.atrue)
         {
 
             //answerdialogbox.text = "CORRECT";
+            setScore();
             correctanswers = correctanswers + 1;
 
             //GetComponent<Button>().colors = Color.green;
@@ -207,9 +209,11 @@ public class CookinGameManager : MonoBehaviour
     public void option2selected()
     {
         Debug.Log("Option 2 selected");
+        
         Savecsv(totalquestionstoask, 2);
         if (currentQuestion.btrue)
         {
+            setScore();
             Debug.Log("Option2");
 
             //answerdialogbox.text = "CORRECT";
@@ -233,10 +237,11 @@ public class CookinGameManager : MonoBehaviour
     public void option3selected()
     {
         Debug.Log("Option 3 selected");
+        
         Savecsv(totalquestionstoask, 3);
         if (currentQuestion.ctrue)
         {
-
+            setScore();
             //answerdialogbox.text = "CORRECT";
             correctanswers = correctanswers + 1;
 
@@ -260,11 +265,12 @@ public class CookinGameManager : MonoBehaviour
     public void option4selected()
     {
         Debug.Log("Option 4 selected");
+        
         Savecsv(totalquestionstoask, 4);
         if (currentQuestion.dtrue)
         {
 
-
+            setScore();
             //answerdialogbox.text = "CORRECT";
             correctanswers = correctanswers + 1;
 
@@ -288,7 +294,7 @@ public class CookinGameManager : MonoBehaviour
 
     IEnumerator TransitionToNextQuestion()
     {
-        Debug.Log("Unanwered count" + unansweredQuestions.Count);
+        //Debug.Log("Unanwered count" + unansweredQuestions.Count);
 
         if (unansweredQuestions.Count == 0)
         {
@@ -337,7 +343,12 @@ public class CookinGameManager : MonoBehaviour
 
     }
 
-
+    void setScore()
+    {
+        int score = PlayerPrefs.GetInt("YourScore");
+        Debug.Log("--------------------Current Score-------------------" + score);
+        PlayerPrefs.SetInt("YourScore", (score + 10));
+    }
     void sethighscores()
     {
 
@@ -552,16 +563,16 @@ public class CookinGameManager : MonoBehaviour
        // Debug.Log(option_selected.ToString());
        
         int length = output.GetLength(0);
-        Debug.Log(length);
+       // Debug.Log(length);
         StringBuilder sb = new StringBuilder();
         for (int index = 0; index < length; index++)
             sb.AppendLine(string.Join(delimiter, output[index]));
         string x = sb.ToString();
-        Debug.Log(x);
+      //  Debug.Log(x);
        // StartCoroutine(sendResponsestoCSV(x));
        // SceneManager.LoadScene("Close prompt");
        // File.AppendAllText(filePath, sb.ToString());//
-        Debug.Log("Data written blah blah");
+      //  Debug.Log("Data written blah blah");
 
         
     }
@@ -571,18 +582,18 @@ public class CookinGameManager : MonoBehaviour
         bool success = true;
         WWWForm form = new WWWForm();
         form.AddField("playerdata", sb);
-        Debug.Log(sb);
+     //   Debug.Log(sb);
         WWW send = new WWW("http://localhost/trial/php.php", form);
         yield return send;
-        Debug.Log(send.text);
+    //    Debug.Log(send.text);
         if (send.error!=null)
         {
             success = false;
-            Debug.Log(send.error);
+    //        Debug.Log(send.error);
         }
         else
         {
-            Debug.Log(send.text);
+     //       Debug.Log(send.text);
             success = true;
         }
       

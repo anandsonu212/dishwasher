@@ -23,7 +23,7 @@ public class PreviewScenemanager : MonoBehaviour {
 
     public void shoppingTimerScene()
     {
-        Debug.Log("------------------------------ShoppingNonTimer--------------");
+        Debug.Log("------------------------------ShoppingTimer--------------");
         SceneManager.LoadScene("ShoppingTimerScene");
         //SceneManager.LoadScene("second");
 

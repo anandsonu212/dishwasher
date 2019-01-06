@@ -118,7 +118,7 @@ public class DishwasherGameManager : MonoBehaviour
             Debug.Log("Unanwered count" + totalquestionstoask);
 
            
-                SceneManager.LoadScene("Summary");
+                SceneManager.LoadScene("DishwashingTask");
             //stopgame();
 
         }
@@ -183,7 +183,7 @@ public class DishwasherGameManager : MonoBehaviour
         Savecsv(totalquestionstoask, 1);
         if (currentQuestion.atrue)
         {
-
+            setScore();
             //answerdialogbox.text = "CORRECT";
             correctanswers = correctanswers + 1;
 
@@ -209,7 +209,7 @@ public class DishwasherGameManager : MonoBehaviour
         if (currentQuestion.btrue)
         {
             Debug.Log("Option2");
-
+            setScore();
             //answerdialogbox.text = "CORRECT";
             correctanswers = correctanswers + 1;
 
@@ -233,7 +233,7 @@ public class DishwasherGameManager : MonoBehaviour
         Savecsv(totalquestionstoask, 3);
         if (currentQuestion.ctrue)
         {
-
+            setScore();
             //answerdialogbox.text = "CORRECT";
             correctanswers = correctanswers + 1;
 
@@ -260,7 +260,7 @@ public class DishwasherGameManager : MonoBehaviour
         if (currentQuestion.dtrue)
         {
 
-
+            setScore();
             //answerdialogbox.text = "CORRECT";
             correctanswers = correctanswers + 1;
 
@@ -277,7 +277,12 @@ public class DishwasherGameManager : MonoBehaviour
         StartCoroutine(TransitionToNextQuestion());
     }
 
-
+    void setScore()
+    {
+        int score = PlayerPrefs.GetInt("YourScore");
+        Debug.Log("--------------------Current Score-------------------" + score);
+        PlayerPrefs.SetInt("YourScore", (score + 10));
+    }
     //end of section 2.
 
     //section 3. This section sets the time delay between questions and reloads the scene after that time to show next question.
@@ -289,8 +294,8 @@ public class DishwasherGameManager : MonoBehaviour
         if (unansweredQuestions.Count == 0)
         {
 
-            //SceneManager.LoadScene("cookingTask");
-            SceneManager.LoadScene("Summary");
+            
+            SceneManager.LoadScene("DishwashingTask");
         }
         else
         {

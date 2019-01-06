@@ -7,8 +7,10 @@ public class resetgame : MonoBehaviour {
 	void Start () {
 
 		PlayerPrefs.DeleteAll ();
-	
-	}
+        
+
+
+    }
 	
 
 }

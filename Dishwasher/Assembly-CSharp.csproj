@@ -61,13 +61,17 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\HighScoreManager.cs" />
     <Compile Include="Assets\PlayAlong.cs" />
     <Compile Include="Assets\QuizUp Assets\Resources\scripts\categoriesscenechanger.cs" />
     <Compile Include="Assets\QuizUp Assets\Resources\scripts\challengemanager.cs" />
     <Compile Include="Assets\QuizUp Assets\Resources\scripts\challengescene.cs" />
     <Compile Include="Assets\QuizUp Assets\Resources\scripts\cleaning\CleaningGameManager.cs" />
+    <Compile Include="Assets\QuizUp Assets\Resources\scripts\cleaning\CleaningTaskManager.cs" />
     <Compile Include="Assets\QuizUp Assets\Resources\scripts\cooking\CookinGameManager.cs" />
+    <Compile Include="Assets\QuizUp Assets\Resources\scripts\cooking\CookingTaskManager.cs" />
     <Compile Include="Assets\QuizUp Assets\Resources\scripts\dishwasher\DishwasherGameManager.cs" />
+    <Compile Include="Assets\QuizUp Assets\Resources\scripts\dishwasher\DishwasherTaskManager.cs" />
     <Compile Include="Assets\QuizUp Assets\Resources\scripts\DishwasherMCQGameManager.cs" />
     <Compile Include="Assets\QuizUp Assets\Resources\scripts\exitgame.cs" />
     <Compile Include="Assets\QuizUp Assets\Resources\scripts\facebookshare.cs" />
@@ -99,6 +103,7 @@
     <Compile Include="Assets\QuizUp Assets\Resources\scripts\resetgame.cs" />
     <Compile Include="Assets\QuizUp Assets\Resources\scripts\scenechanger.cs" />
     <Compile Include="Assets\QuizUp Assets\Resources\scripts\shopping\ShoppingGameManager.cs" />
+    <Compile Include="Assets\QuizUp Assets\Resources\scripts\shopping\ShoppingTaskManager.cs" />
     <Compile Include="Assets\QuizUp Assets\Resources\scripts\splashscreen.cs" />
     <Compile Include="Assets\QuizUp Assets\Resources\scripts\startscenemanager.cs" />
     <Compile Include="Assets\QuizUp Assets\Resources\scripts\tfGameManager.cs" />

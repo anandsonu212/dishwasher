@@ -118,7 +118,7 @@ public class ShoppingGameManager : MonoBehaviour
             Debug.Log("Unanwered count" + totalquestionstoask);
 
            
-                SceneManager.LoadScene("cookingTask");
+                SceneManager.LoadScene("shoppingTask");
             //stopgame();
 
         }
@@ -183,7 +183,7 @@ public class ShoppingGameManager : MonoBehaviour
         Savecsv(totalquestionstoask, 1);
         if (currentQuestion.atrue)
         {
-
+            setScore();
             //answerdialogbox.text = "CORRECT";
             correctanswers = correctanswers + 1;
 
@@ -209,7 +209,7 @@ public class ShoppingGameManager : MonoBehaviour
         if (currentQuestion.btrue)
         {
             Debug.Log("Option2");
-
+            setScore();
             //answerdialogbox.text = "CORRECT";
             correctanswers = correctanswers + 1;
 
@@ -233,7 +233,7 @@ public class ShoppingGameManager : MonoBehaviour
         Savecsv(totalquestionstoask, 3);
         if (currentQuestion.ctrue)
         {
-
+            setScore();
             //answerdialogbox.text = "CORRECT";
             correctanswers = correctanswers + 1;
 
@@ -260,7 +260,7 @@ public class ShoppingGameManager : MonoBehaviour
         if (currentQuestion.dtrue)
         {
 
-
+            setScore();
             //answerdialogbox.text = "CORRECT";
             correctanswers = correctanswers + 1;
 
@@ -289,7 +289,7 @@ public class ShoppingGameManager : MonoBehaviour
         if (unansweredQuestions.Count == 0)
         {
 
-            SceneManager.LoadScene("cookingTask");
+            SceneManager.LoadScene("shoppingTask");
         }
         else
         {
@@ -312,7 +312,12 @@ public class ShoppingGameManager : MonoBehaviour
 
     }
 
-
+    void setScore()
+    {
+        int score = PlayerPrefs.GetInt("YourScore");
+        Debug.Log("--------------------Current Score-------------------" + score);
+        PlayerPrefs.SetInt("YourScore", (score + 10));
+    }
     //section 4. Displays results of game
 
     void stopgame()
